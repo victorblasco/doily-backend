@@ -1,3 +1,6 @@
+# IDE
+/*.sublime*
+
 # Mix artifacts
 /_build
 /deps
